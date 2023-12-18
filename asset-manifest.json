@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.9eb393a5.chunk.css",
-    "main.js": "/react_phone-catalog/static/js/main.ca180af0.chunk.js",
-    "main.js.map": "/react_phone-catalog/static/js/main.ca180af0.chunk.js.map",
-    "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.0e28853e.js",
-    "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.0e28853e.js.map",
-    "static/js/2.6f04a6b2.chunk.js": "/react_phone-catalog/static/js/2.6f04a6b2.chunk.js",
-    "static/js/2.6f04a6b2.chunk.js.map": "/react_phone-catalog/static/js/2.6f04a6b2.chunk.js.map",
-    "index.html": "/react_phone-catalog/index.html",
-    "static/css/main.9eb393a5.chunk.css.map": "/react_phone-catalog/static/css/main.9eb393a5.chunk.css.map",
-    "static/js/2.6f04a6b2.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.6f04a6b2.chunk.js.LICENSE.txt",
-    "static/media/youmay.scss": "/react_phone-catalog/static/media/Chevron-right.079e7aa2.svg",
-    "static/media/productcard.scss": "/react_phone-catalog/static/media/filledfavourites.7d28319f.svg",
-    "static/media/App.scss": "/react_phone-catalog/static/media/Mont-Bold.03c8c2f6.otf"
+    "main.css": "/static/css/main.7c5fdf0f.chunk.css",
+    "main.js": "/static/js/main.03035ed1.chunk.js",
+    "main.js.map": "/static/js/main.03035ed1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2e69211.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2e69211.js.map",
+    "static/js/2.6f04a6b2.chunk.js": "/static/js/2.6f04a6b2.chunk.js",
+    "static/js/2.6f04a6b2.chunk.js.map": "/static/js/2.6f04a6b2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7c5fdf0f.chunk.css.map": "/static/css/main.7c5fdf0f.chunk.css.map",
+    "static/js/2.6f04a6b2.chunk.js.LICENSE.txt": "/static/js/2.6f04a6b2.chunk.js.LICENSE.txt",
+    "static/media/youmay.scss": "/static/media/Chevron-right.079e7aa2.svg",
+    "static/media/productcard.scss": "/static/media/filledfavourites.7d28319f.svg",
+    "static/media/App.scss": "/static/media/Mont-Bold.03c8c2f6.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e28853e.js",
+    "static/js/runtime-main.d2e69211.js",
     "static/js/2.6f04a6b2.chunk.js",
-    "static/css/main.9eb393a5.chunk.css",
-    "static/js/main.ca180af0.chunk.js"
+    "static/css/main.7c5fdf0f.chunk.css",
+    "static/js/main.03035ed1.chunk.js"
   ]
 }
