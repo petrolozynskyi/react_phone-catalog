@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.46a9dab2.chunk.css",
-    "main.js": "/react_phone-catalog/static/js/main.8da0c7a5.chunk.js",
-    "main.js.map": "/react_phone-catalog/static/js/main.8da0c7a5.chunk.js.map",
+    "main.css": "/react_phone-catalog/static/css/main.e6b1c0d2.chunk.css",
+    "main.js": "/react_phone-catalog/static/js/main.c50ae696.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.c50ae696.chunk.js.map",
     "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.0e28853e.js",
     "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.0e28853e.js.map",
     "static/js/2.6f04a6b2.chunk.js": "/react_phone-catalog/static/js/2.6f04a6b2.chunk.js",
     "static/js/2.6f04a6b2.chunk.js.map": "/react_phone-catalog/static/js/2.6f04a6b2.chunk.js.map",
     "index.html": "/react_phone-catalog/index.html",
-    "static/css/main.46a9dab2.chunk.css.map": "/react_phone-catalog/static/css/main.46a9dab2.chunk.css.map",
+    "static/css/main.e6b1c0d2.chunk.css.map": "/react_phone-catalog/static/css/main.e6b1c0d2.chunk.css.map",
     "static/js/2.6f04a6b2.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.6f04a6b2.chunk.js.LICENSE.txt",
     "static/media/youmay.scss": "/react_phone-catalog/static/media/Chevron-right.079e7aa2.svg",
     "static/media/productcard.scss": "/react_phone-catalog/static/media/filledfavourites.7d28319f.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e28853e.js",
     "static/js/2.6f04a6b2.chunk.js",
-    "static/css/main.46a9dab2.chunk.css",
-    "static/js/main.8da0c7a5.chunk.js"
+    "static/css/main.e6b1c0d2.chunk.css",
+    "static/js/main.c50ae696.chunk.js"
   ]
 }
